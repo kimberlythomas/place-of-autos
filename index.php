@@ -55,11 +55,8 @@
                     <p class="right-aligned"><span class="data-label">Year: </span><span class="vehicle-year">$vehicle[2]</span>
                     &nbsp;&nbsp;<span class="data-label">Mileage: </span><span class="vehicle-mileage">$vehicle[3]</span></p>
                     <p class="vehicle-price right-aligned">$$price</p>
-
                     <!-- form for payment calculation -->
-
                     <form action="payment-plan.php" method="post">
-
                         <input type="hidden" name="make" value="$vehicle[0]">
                         <input type="hidden" name="model" value="$vehicle[1]">
                         <input type="hidden" name="price" value="$vehicle[4]">
@@ -82,7 +79,6 @@
                             <br /><br />
                         <p class="right-aligned"><button type="submit">See your personalized payment plan &gt;&gt;&gt;</button></p>
                     </form>
-
                     <hr />
                 </td>
             </tr>
