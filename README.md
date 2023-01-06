@@ -1,5 +1,5 @@
 # place-of-autos
-> A dynamic auto listing website build using PHP. Choose your repayment duration and APR to see a personalized payment plan.
+> A dynamic auto listing website built using PHP. Choose your repayment duration and APR to see a personalized payment plan.
 > Live demo [_here_](https://place-of-autos--kimberlythomas.repl.co/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
